@@ -1,0 +1,21 @@
+# 编辑器 / 系统
+.DS_Store
+Thumbs.db
+desktop.ini
+.vscode/
+.idea/
+*.swp
+
+# 依赖与构建产物（本项目零依赖，保留以防将来引入）
+node_modules/
+dist/
+build/
+package-lock.json
+pnpm-lock.yaml
+yarn.lock
+
+# 日志与临时文件
+*.log
+npm-debug.log*
+.tmp/
+.cache/
